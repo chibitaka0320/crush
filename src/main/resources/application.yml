@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: crush
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/crush
+    username: postgres
+    password: postgres
